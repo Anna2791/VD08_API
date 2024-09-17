@@ -1,0 +1,21 @@
+body {
+    background-color: #f4f4f9;
+    font-family: 'Arial', sans-serif;
+}
+
+.quote-box {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+}
+
+blockquote {
+    font-size: 1.5rem;
+    color: #333333;
+}
+
+blockquote-footer {
+    font-size: 1rem;
+    color: #555555;
+}
